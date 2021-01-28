@@ -3,4 +3,4 @@ Data Analysis of the International football matches dataset done by Mart Jurisoo
 
 The main idea is to explore the dataset, answer some questions and play with it by graphing some stuff.
 
-Used tools: Pandas, Numpy, Matplotlib
+Used tools: Pandas, Numpy & Matplotlib
